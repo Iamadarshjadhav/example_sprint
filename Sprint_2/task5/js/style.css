@@ -1,0 +1,85 @@
+.navbar img{
+       height: 63px;
+       width: 99px;
+       padding: 10px;
+}
+hr {
+    background-color: black;
+}
+.featured-products img{
+    height: 129px;
+    width: 122px;
+}
+.featured {
+    padding-left: 150px;
+
+}
+.featured h2 {
+    text-align: center;
+    padding-right: 200px;
+    color:brown;
+    font-weight: bold;
+    
+}
+.sprayer {
+    height: 200px;
+    width: 150px;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+
+}
+.chaff_cutter {
+    height: 200px;
+    width: 150px;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+
+
+}
+.machine {
+    height: 200px;
+    width: 150px;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+
+}
+.featured-products h2 {
+    text-align: center;
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+    background-color: bisque;
+}
+.navbar{
+    background-color: aqua;
+    position: relative;
+}
+#product{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    
+}
+#seeds{
+    height: 200px;
+    width: 150px;
+}
+.card:hover {
+    transform: scale(1.1, 1.1);
+  box-shadow: 3px 3px 5px grey, -3px -3px 5px grey;
+    
+}
+#farmer{
+    display:block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    height:300px;
+    width:250px;
+}
+.nav{
+    text-align: center;
+}
